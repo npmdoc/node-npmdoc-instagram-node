@@ -6,7 +6,7 @@
 <tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-03T15:15:19Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-03T15:16:34Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="122">instagram-node</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154"></tspan>
@@ -14,90 +14,90 @@
 <tspan x="10" y="186">c-instagram-node/test.js</tspan>
 <tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/test-report.json t\</tspan>
 <tspan x="10" y="218">o test-report</tspan>
-<tspan x="10" y="234">&gt; server listening on http-port 65027</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 37518</tspan>
 <tspan x="10" y="250">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/apidoc.html</tspan>
 <tspan x="10" y="266"></tspan>
 <tspan x="10" y="282"></tspan>
 <tspan x="10" y="298">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-instagram-node/t\</tspan>
-<tspan x="10" y="314">mp/electron.15b346278230.e08c889569fb.html</tspan>
+<tspan x="10" y="314">mp/electron.15b34639ae60.ebb60422ef9d7.html</tspan>
 <tspan x="10" y="330"></tspan>
-<tspan x="10" y="346">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="362">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
-<tspan x="10" y="378">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
-<tspan x="10" y="394">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
-<tspan x="10" y="410"></tspan>
-<tspan x="10" y="426">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-instagram-node/t\</tspan>
-<tspan x="10" y="442">mp/electron.15b3462794f0.1bd971f7c583b.html</tspan>
-<tspan x="10" y="458"></tspan>
-<tspan x="10" y="474">merging file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/test-report.json t\</tspan>
-<tspan x="10" y="490">o test-report</tspan>
-<tspan x="10" y="506">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="522">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="538">[4929:0403/151520:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="554">[4929:0403/151520:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="570">[4971:0403/151520:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="586">in process gpu-process. </tspan>
-<tspan x="10" y="602">[4929:0403/151520:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="618">&gt; server listening on http-port 56281</tspan>
-<tspan x="10" y="634"></tspan>
-<tspan x="10" y="650">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/apidoc.h\</tspan>
-<tspan x="10" y="666">tml</tspan>
-<tspan x="10" y="682"></tspan>
-<tspan x="10" y="698">merging file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/test-report.json t\</tspan>
-<tspan x="10" y="714">o test-report</tspan>
-<tspan x="10" y="730">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="746">[4946:0403/151521:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="762">[4946:0403/151521:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="778">[5015:0403/151521:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="794">in process gpu-process. </tspan>
-<tspan x="10" y="810">[4946:0403/151521:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="826"></tspan>
-<tspan x="10" y="842">browserTest - opened url http://127.0.0.1:65027?modeTest=1</tspan>
+<tspan x="10" y="346">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="362">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="378">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="394"></tspan>
+<tspan x="10" y="410">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-instagram-node/t\</tspan>
+<tspan x="10" y="426">mp/electron.15b34639b160.00963218d9f85.html</tspan>
+<tspan x="10" y="442"></tspan>
+<tspan x="10" y="458">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="474">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="490">&gt; server listening on http-port 33055</tspan>
+<tspan x="10" y="506">merging file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/test-report.json t\</tspan>
+<tspan x="10" y="522">o test-report</tspan>
+<tspan x="10" y="538">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="554">[5993:0403/151635:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="570">[5993:0403/151635:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="586">[6033:0403/151635:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="602">in process gpu-process. </tspan>
+<tspan x="10" y="618">merging file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/test-report.json t\</tspan>
+<tspan x="10" y="634">o test-report</tspan>
+<tspan x="10" y="650">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="666">[5989:0403/151635:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="682">[5989:0403/151635:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="698">[5993:0403/151635:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="714">[6063:0403/151635:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="730">in process gpu-process. </tspan>
+<tspan x="10" y="746">[5989:0403/151635:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="762"></tspan>
+<tspan x="10" y="778">browserTest - opened url http://127.0.0.1:37518?modeTest=1</tspan>
+<tspan x="10" y="794"></tspan>
+<tspan x="10" y="810"></tspan>
+<tspan x="10" y="826">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/apidoc.h\</tspan>
+<tspan x="10" y="842">tml</tspan>
 <tspan x="10" y="858"></tspan>
-<tspan x="10" y="874">[4946:0403/151523:INFO:CONSOLE(245)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="874">[5993:0403/151637:INFO:CONSOLE(245)] "----------|-----------|-----------|-----------|-----------\</tspan>
 <tspan x="10" y="890">|</tspan>
 <tspan x="10" y="906">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="922">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="938">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="954">All files |       100 |       100 |       100 |       100 |</tspan>
 <tspan x="10" y="970">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="986">", source: file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/electron.15b3462794f0\</tspan>
-<tspan x="10" y="1002">.1bd971f7c583b.html (245)</tspan>
-<tspan x="10" y="1018">[4946:0403/151523:INFO:CONSOLE(245)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
-<tspan x="10" y="1034">l", source: file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/electron.15b3462794f\</tspan>
-<tspan x="10" y="1050">0.1bd971f7c583b.html (245)</tspan>
+<tspan x="10" y="986">", source: file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/electron.15b34639b160\</tspan>
+<tspan x="10" y="1002">.00963218d9f85.html (245)</tspan>
+<tspan x="10" y="1018">[5993:0403/151637:INFO:CONSOLE(245)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1034">l", source: file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/electron.15b34639b16\</tspan>
+<tspan x="10" y="1050">0.00963218d9f85.html (245)</tspan>
 <tspan x="10" y="1066">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="1082"></tspan>
 <tspan x="10" y="1098">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/\</tspan>
-<tspan x="10" y="1114">tmp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-instagra\</tspan>
-<tspan x="10" y="1130">m-node_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
-<tspan x="10" y="1146"></tspan>
-<tspan x="10" y="1162">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/\</tspan>
-<tspan x="10" y="1178">tmp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-instagra\</tspan>
-<tspan x="10" y="1194">m-node_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
+<tspan x="10" y="1114">tmp/build/screenCapture.npmTest.browser..png</tspan>
+<tspan x="10" y="1130"></tspan>
+<tspan x="10" y="1146">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/\</tspan>
+<tspan x="10" y="1162">tmp/build/screenCapture.npmTest.browser..html</tspan>
+<tspan x="10" y="1178"></tspan>
+<tspan x="10" y="1194">browserTest - exit-code 0 - http://127.0.0.1:37518?modeTest=1</tspan>
 <tspan x="10" y="1210"></tspan>
-<tspan x="10" y="1226">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/apido\</tspan>
-<tspan x="10" y="1242">c.html</tspan>
-<tspan x="10" y="1258"></tspan>
-<tspan x="10" y="1274">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="1226"></tspan>
+<tspan x="10" y="1242">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/cove\</tspan>
+<tspan x="10" y="1258">rage.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1274"></tspan>
 <tspan x="10" y="1290"></tspan>
-<tspan x="10" y="1306">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/\</tspan>
-<tspan x="10" y="1322">tmp/build/screenCapture.npmTest.browser..png</tspan>
+<tspan x="10" y="1306">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/\</tspan>
+<tspan x="10" y="1322">test-report.npmTest.browser.%2F.json</tspan>
 <tspan x="10" y="1338"></tspan>
-<tspan x="10" y="1354">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/\</tspan>
-<tspan x="10" y="1370">tmp/build/screenCapture.npmTest.browser..html</tspan>
-<tspan x="10" y="1386"></tspan>
-<tspan x="10" y="1402">browserTest - exit-code 0 - http://127.0.0.1:65027?modeTest=1</tspan>
-<tspan x="10" y="1418"></tspan>
+<tspan x="10" y="1354">[node test-case 5 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="1370"></tspan>
+<tspan x="10" y="1386">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/\</tspan>
+<tspan x="10" y="1402">tmp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-instagra\</tspan>
+<tspan x="10" y="1418">m-node_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
 <tspan x="10" y="1434"></tspan>
-<tspan x="10" y="1450">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/cove\</tspan>
-<tspan x="10" y="1466">rage.npmTest.browser.%2F.json</tspan>
-<tspan x="10" y="1482"></tspan>
+<tspan x="10" y="1450">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/\</tspan>
+<tspan x="10" y="1466">tmp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-instagra\</tspan>
+<tspan x="10" y="1482">m-node_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
 <tspan x="10" y="1498"></tspan>
-<tspan x="10" y="1514">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/\</tspan>
-<tspan x="10" y="1530">test-report.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1514">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/apido\</tspan>
+<tspan x="10" y="1530">c.html</tspan>
 <tspan x="10" y="1546"></tspan>
-<tspan x="10" y="1562">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="1562">[node test-case 6 of 6 passed] - testCase_buildApidoc_default</tspan>
 <tspan x="10" y="1578">-----------------------------------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="1594">File                               |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="1610">-----------------------------------|-----------|-----------|-----------|-----------|</tspan>
@@ -115,8 +115,8 @@
 <tspan x="10" y="1802">o test-report</tspan>
 <tspan x="10" y="1818"></tspan>
 <tspan x="10" y="1834">-------------------------------------------------------</tspan>
-<tspan x="10" y="1850">| test-report - buildNpmdoc - node - linux v6.10.1 - 2017-04-03T15:15:04.182Z</tspan>
-<tspan x="10" y="1866">|   26015 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="1850">| test-report - buildNpmdoc - node - linux v6.10.1 - 2017-04-03T15:16:01.015Z</tspan>
+<tspan x="10" y="1866">|   43540 ms            0 failed        6 passed      |</tspan>
 <tspan x="10" y="1882">-------------------------------------------------------</tspan>
 <tspan x="10" y="1898"></tspan>
 <tspan x="10" y="1914">created test-report file:///home/travis/build/npmdoc/node-npmdoc-instagram-node/tmp/build/test-r\</tspan>
@@ -126,6 +126,6 @@
 <tspan x="10" y="1978">npmTest - 0 failed tests</tspan>
 <tspan x="10" y="1994"></tspan>
 <tspan x="10" y="2010"></tspan>
-<tspan x="10" y="2026">[MODE_BUILD=npmTest] - 2017-04-03T15:15:33Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="2026">[MODE_BUILD=npmTest] - 2017-04-03T15:16:47Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
