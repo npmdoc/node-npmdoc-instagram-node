@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/instagram-node.png?downloads=true)](https://www.npmjs.com/package/instagram-node)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-instagram-node/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-instagram-node_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-instagram-node/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-instagram-node/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-instagram-node_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-instagram-node/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-instagram-node/build/screenCapture.npmPackageListing.svg)
 
