@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "instagram-node",
-    "description": "#### api documentation for  [instagram-node (v0.5.8)](https://github.com/teleportd/instagram-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-instagram-node.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-instagram-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-instagram-node.svg)](https://travis-ci.org/npmdoc/node-npmdoc-instagram-node)",
+    "description": "#### basic api documentation for  [instagram-node (v0.5.8)](https://github.com/teleportd/instagram-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-instagram-node.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-instagram-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-instagram-node.svg)](https://travis-ci.org/npmdoc/node-npmdoc-instagram-node)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "instagram-node": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.3"
+    "version": "2017.4.25"
 }

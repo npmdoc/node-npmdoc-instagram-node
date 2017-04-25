@@ -1,6 +1,6 @@
 # npmdoc-instagram-node
 
-#### api documentation for  [instagram-node (v0.5.8)](https://github.com/teleportd/instagram-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-instagram-node.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-instagram-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-instagram-node.svg)](https://travis-ci.org/npmdoc/node-npmdoc-instagram-node)
+#### basic api documentation for  [instagram-node (v0.5.8)](https://github.com/teleportd/instagram-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-instagram-node.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-instagram-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-instagram-node.svg)](https://travis-ci.org/npmdoc/node-npmdoc-instagram-node)
 
 #### Simple Instagram driver for Node.js
 
@@ -63,7 +63,8 @@
         "url": "git+https://github.com/teleportd/instagram-node.git"
     },
     "scripts": {},
-    "version": "0.5.8"
+    "version": "0.5.8",
+    "bin": {}
 }
 ```
 
